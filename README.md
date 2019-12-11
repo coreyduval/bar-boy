@@ -90,7 +90,7 @@ error. If this error appears, just close that terminal window and start a new on
 
 * **Drew Ehrlich** - *Software Developer* - [deehrlic](https://github.com/deehrlic)
 
-* **Corey DuVal** - *Electronics Developer* - [coreyduval](https://github.com/coreyduval)
+* **Corey DuVal** - *Electronic Design/ Construction Lead* - [coreyduval](https://github.com/coreyduval)
 
 ## License
 
